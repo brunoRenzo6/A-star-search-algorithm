@@ -13,8 +13,8 @@ A* algorithm applied to real-world street networks, using osmnx
     <td>
       <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_PlotResults/GIF/astarGif3_MIT.gif" width="370"/>
       </br>
-      From: Empire State Building</br>
-      To: Times Suare
+      From: Massachusetts Institute of Technology</br>
+      To: Harvard University, United States
     </td>
   </tr>
   <tr>
