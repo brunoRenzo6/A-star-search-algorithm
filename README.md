@@ -9,7 +9,7 @@ A* algorithm applied to real-world street networks, using osmnx
       </br>
       From: Mercado Municipal, Sao Paulo, Brasil</br>
       To: Museu do Futebol, Pacaembu, Sao Paulo, Brasil</br>
-      <a href="[https://www.google.com/maps/dir/Vassar+St,+Cambridge,+MA,+USA/Harvard+Stadium,+79+N+Harvard+St,+Allston,+MA+02134,+United+States/@42.3640173,-71.1217425,14.22z/data=!4m14!4m13!1m5!1m1!1s0x89e379ffeb6a2e03:0x37af9c5e4423a205!2m2!1d-71.098634!2d42.3583024!1m5!1m1!1s0x89e377617c1cb3db:0x4f962131199b0890!2m2!1d-71.1265814!2d42.3663482!3e2](https://www.google.com/maps/dir/Sao+Paulo+Municipal+Market,+R.+da+Cantareira,+306+-+Centro+Hist%C3%B3rico+de+S%C3%A3o+Paulo,+S%C3%A3o+Paulo+-+SP,+01024-900/Museu+do+Futebol,+Pra%C3%A7a+Charles+Miller,+s%2Fn+-+Pacaembu,+S%C3%A3o+Paulo+-+SP,+01234-010/@-23.5462755,-46.656366,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x94ce5f8c61020205:0x9ae474c606fef4!2m2!1d-46.6300817!2d-23.5417538!1m5!1m1!1s0x94ce5825daacb07f:0xcfdec9e87c999ece!2m2!1d-46.6651364!2d-23.547692!3e2)">(Map)
+      <a href="https://www.google.com/maps/dir/Sao+Paulo+Municipal+Market,+R.+da+Cantareira,+306+-+Centro+Hist%C3%B3rico+de+S%C3%A3o+Paulo,+S%C3%A3o+Paulo+-+SP,+01024-900/Museu+do+Futebol,+Pra%C3%A7a+Charles+Miller,+s%2Fn+-+Pacaembu,+S%C3%A3o+Paulo+-+SP,+01234-010/@-23.5462755,-46.656366,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x94ce5f8c61020205:0x9ae474c606fef4!2m2!1d-46.6300817!2d-23.5417538!1m5!1m1!1s0x94ce5825daacb07f:0xcfdec9e87c999ece!2m2!1d-46.6651364!2d-23.547692!3e2">(Map)
       </a>
     </td>
     <td>
