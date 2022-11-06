@@ -32,6 +32,8 @@ A* algorithm applied to real-world street networks, using osmnx
       <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_behaviorTree/GIF/behaviorTree.gif" width="370"/></br>
       </br>
       Example of Behaviour Tree build at A* algorithm</br>
+      <a href="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/main/bigScale_behaviorTree.ipynb">(bigScale_behaviorTree.ipynb)
+      </a>
     </td>
   </tr>
 </table>
