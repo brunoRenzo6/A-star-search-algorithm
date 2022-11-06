@@ -23,7 +23,7 @@ A* algorithm applied to real-world street networks, using osmnx
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_PlotResults/GIF/astarGif3.gif" width="370"/>
+      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_PlotResults/GIF/astarGif3_EmpireState.gif" width="370"/>
       </br>
       From: Empire State Building</br>
       To: Times Suare</br>
