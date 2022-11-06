@@ -13,6 +13,8 @@ A* algorithm applied to real-world street networks, using osmnx
       <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/main/imgs/heat_map%20-%20Pacaembu.png" width="370"/>
       </br>
       Heat Map based on Great circle Heuristic</br>
+      <a href="https://www.google.com/maps/dir/Sao+Paulo+Municipal+Market,+R.+da+Cantareira,+306+-+Centro+Hist%C3%B3rico+de+S%C3%A3o+Paulo,+S%C3%A3o+Paulo+-+SP,+01024-900/Museu+do+Futebol,+Pra%C3%A7a+Charles+Miller,+s%2Fn+-+Pacaembu,+S%C3%A3o+Paulo+-+SP,+01234-010/@-23.5462755,-46.656366,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x94ce5f8c61020205:0x9ae474c606fef4!2m2!1d-46.6300817!2d-23.5417538!1m5!1m1!1s0x94ce5825daacb07f:0xcfdec9e87c999ece!2m2!1d-46.6651364!2d-23.547692!3e2">(Map)
+      </a>
     </td>
   </tr>
   <tr>
