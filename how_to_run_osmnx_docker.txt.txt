@@ -1,5 +1,7 @@
 Run the docker container
 
+(Open first the docker desktop application)
+
 On Windows open a command prompt, change directory to location of notebook file, and run:
 docker run --rm -it -p 8888:8888 -v "%cd%":/home/jovyan/work gboeing/osmnx:latest
 
