@@ -2,6 +2,37 @@
 A* algorithm applied to real-world street networks, using osmnx
 
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/main/imgs/source_and_target%20-%20Pacaembu.png" width="370"/>
+      </br>
+      Setting source and target points
+    </td>
+    <td>
+      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/main/imgs/heat_map%20-%20Pacaembu.png" width="370"/>
+      </br>
+      Heat Map based on Great circle Heuristic
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_PlotResults/GIF/astarGif3_Pacaembu.gif" width="370"/>
+      </br>
+      From: Empire State Building</br>
+      To: Times Suare</br>
+      <a href="https://www.google.com/maps/dir/Empire+State+Building,+20+W+34th+St.,+New+York,+NY+10001,+United+States/Times+Square,+Manhattan,+NY,+USA/@40.7525248,-73.9891953,16z/data=!4m14!4m13!1m5!1m1!1s0x89c259a9b3117469:0xd134e199a405a163!2m2!1d-73.9856644!2d40.7484405!1m5!1m1!1s0x89c25855c6480299:0x55194ec5a1ae072e!2m2!1d-73.9855426!2d40.7579747!3e2">(Map)
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_behaviorTree/GIF/behaviorTree.gif" width="370"/></br>
+      </br>
+      Example of Behaviour Tree build at A* algorithm
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td>
