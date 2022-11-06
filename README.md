@@ -39,5 +39,20 @@ A* algorithm applied to real-world street networks, using osmnx
 </table>
 
 
-
+<table>
+  <tr>
+    <td>
+      <img src="https://thumbs.gfycat.com/MilkyRichArmadillo-max-1mb.gif" width="370"/>
+      </br>
+      From: Mercado Municipal, Sao Paulo, Brasil</br>
+      To: Museu do Futebol, Pacaembu, Sao Paulo, Brasil</br>
+    </td>
+    <td>
+      <img src="https://thumbs.gfycat.com/CrazyLawfulCrow-size_restricted.gif" width="370"/>
+      </br>
+      From: Mercado Municipal, Sao Paulo, Brasil</br>
+      To: Museu do Futebol, Pacaembu, Sao Paulo, Brasil</br>
+    </td>
+  </tr>
+</table>
 
