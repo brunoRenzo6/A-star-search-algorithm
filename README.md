@@ -23,7 +23,7 @@ A* algorithm applied to real-world street networks, using osmnx
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_PlotResults/GIF/astarGif3.gif" width="370"/>
+      <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/develop/bigScale_PlotResults/GIF/astarGif3_EmpireState.gif" width="370"/>
       </br>
       From: Empire State Building</br>
       To: Times Suare</br>
@@ -38,6 +38,19 @@ A* algorithm applied to real-world street networks, using osmnx
   </tr>
 </table>
 
-
-
+### Path finders at nature
+<table>
+  <tr>
+    <td>
+      <img src="https://thumbs.gfycat.com/MilkyRichArmadillo-max-1mb.gif" width="370"/>
+      </br>
+      Blob - physarum polycephalum 
+    </td>
+    <td>
+      <img src="https://thumbs.gfycat.com/CrazyLawfulCrow-size_restricted.gif" width="370"/>
+      </br>
+      Growing beans
+    </td>
+  </tr>
+</table>
 
