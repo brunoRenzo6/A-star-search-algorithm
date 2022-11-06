@@ -8,7 +8,7 @@ A* algorithm applied to real-world street networks, using osmnx
       <img src="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/main/imgs/source_and_target%20-%20Pacaembu.png" width="370"/>
       </br>
       Setting source and target points</br>
-      <a href="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/main/bigScale_CreateDataSet.ipynb">(bigScale_CreateDataSet)
+      <a href="https://github.com/brunoRenzo6/A-star-search-algorithm/blob/main/bigScale_CreateDataSet.ipynb">(bigScale_CreateDataSet.ipynb)
       </a>
     </td>
     <td>
